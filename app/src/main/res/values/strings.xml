@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Thread</string>
+    <string name="btn_anr">ANR</string>
+    <string name="btn_thread">thread多线程</string>
+    <string name="btn_runnabel">Runnable接口多线程</string>
+    <string name="btn_asynctask">asncytask异步操作</string>
+    <string name="btn_timertask">TimerTask</string>
+    <string name="btn_handler">handler消息处理器</string>
+</resources>
